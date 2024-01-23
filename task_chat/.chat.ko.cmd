@@ -1,0 +1,1 @@
+cmd_/home/anbu/Documents/task_chat/chat.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/anbu/Documents/task_chat/chat.ko /home/anbu/Documents/task_chat/chat.o /home/anbu/Documents/task_chat/chat.mod.o;  true

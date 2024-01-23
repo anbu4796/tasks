@@ -1,0 +1,1 @@
+cmd_/home/anbu/Documents/task_log/Module.symvers := sed 's/\.ko$$/\.o/' /home/anbu/Documents/task_log/modules.order | scripts/mod/modpost -m -a  -o /home/anbu/Documents/task_log/Module.symvers -e -i Module.symvers   -T -

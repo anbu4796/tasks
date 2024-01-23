@@ -1,0 +1,1 @@
+cmd_/home/anbu/Documents/task_keyboard2/key_board.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/anbu/Documents/task_keyboard2/key_board.ko /home/anbu/Documents/task_keyboard2/key_board.o /home/anbu/Documents/task_keyboard2/key_board.mod.o;  true

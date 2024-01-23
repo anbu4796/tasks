@@ -1,0 +1,1 @@
+cmd_/home/anbu/Documents/task_new/sync.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/anbu/Documents/task_new/sync.ko /home/anbu/Documents/task_new/sync.o /home/anbu/Documents/task_new/sync.mod.o;  true
